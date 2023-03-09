@@ -1,0 +1,11 @@
+use the any text editor
+filename should be school.mgc
+
+line1: 0 string SCHOOL School data
+line2: !:mime School
+
+Then you exit the text editor
+type -> file -C -m school.mgc {on the terminal and hit <enter>}
+Git add .
+Git commit -m "Add task 19 file"
+Git push
